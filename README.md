@@ -6,9 +6,6 @@ This is my personal portfolio website created using HTML and CSS.
 
 My portfolio showcases my skills, projects, and experience. It provides an overview of my background, displays my work, and serves as a platform to connect with potential clients or employers.
 
-## Preview
-
-![Portfolio Preview](preview.png)
 
 ## Live Demo
 
