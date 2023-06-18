@@ -6,11 +6,6 @@ This is my personal portfolio website created using HTML and CSS.
 
 My portfolio showcases my skills, projects, and experience. It provides an overview of my background, displays my work, and serves as a platform to connect with potential clients or employers.
 
-
-## Live Demo
-
-[Live Demo](https://wiiwake3101.github.io/HTML-CSS/)
-
 ## Features
 
 - Responsive design for optimal viewing on different devices.
@@ -20,7 +15,7 @@ My portfolio showcases my skills, projects, and experience. It provides an overv
 
 ## Usage
 
-To explore my portfolio, simply open the [live demo](https://wiiwake3101.github.io/HTML-CSS/) in your web browser. Navigate through the different sections using the navigation menu.
+To explore my portfolio, simply download the two files(abc.css and About Myself.html) and run the Html code. Navigate through the different sections using the navigation menu.
 
 ## Technologies Used
 
