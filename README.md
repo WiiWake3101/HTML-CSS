@@ -23,7 +23,7 @@ To explore my portfolio, simply download the two files(abc.css and About Myself.
 - CSS
 
 ## Output
-Click Here to view the output [Output]([(https://raw.githack.com/WiiWake3101/HTML-CSS/main/About%20Myself.html)).
+Click Here to view the output [Output](https://raw.githack.com/WiiWake3101/HTML-CSS/main/About%20Myself.html).
 
 
 ## Contributing
