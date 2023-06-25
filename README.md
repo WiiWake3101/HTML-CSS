@@ -22,6 +22,10 @@ To explore my portfolio, simply download the two files(abc.css and About Myself.
 - HTML
 - CSS
 
+## Output
+Click Here to view the output [Output](https://www.linkedin.com/in/vm4512/).
+
+
 ## Contributing
 
 I am open to feedback and contributions! If you have any suggestions, find a bug, or would like to contribute to my project, please feel free to reach out to me or submit a pull request.
