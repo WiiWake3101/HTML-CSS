@@ -56,7 +56,6 @@ table{
 }
 
 th{
-    table-layout: auto;
     background-color:#1E1E1E ;
     padding: 5px;
     color: white;
@@ -65,7 +64,6 @@ th{
 }
 
 td{
-    table-layout: auto;
     background-color:white ;
     color: #1E1E1E;
     text-align: center;
