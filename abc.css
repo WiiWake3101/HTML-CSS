@@ -37,6 +37,7 @@ hr {
     opacity: 0.5;
   }
 table{
+    table-layout: fixed;
     background-color:white ;
     color: #1E1E1E;
     padding: 15px;
