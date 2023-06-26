@@ -52,7 +52,6 @@ table{
     border-collapse: collapse;
     font-size: 1.1rem; 
     font-size: 1.1em;
-    font-size: medium;
 }
 th{
     background-color:#1E1E1E ;
@@ -62,7 +61,6 @@ th{
     border: 1px solid #1E1E1E; 
     font-size: 1.1rem; 
     font-size: 1.1em; 
-    font-size: medium;
 }
 td{
     background-color:white ;
@@ -72,7 +70,6 @@ td{
     border: 1px solid #1E1E1E;
     font-size: 1.1rem; 
     font-size: 1.1em; 
-    font-size: medium;
 }
 .center {
     margin-left: auto;
