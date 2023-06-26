@@ -10,13 +10,17 @@ div{
     margin: 20px;
     border: 2px solid black;
     padding: 20px;
+    width: auto;
+    height: auto;
 }
+
 img {
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
     width: 150px;
 }
+
 ul {
     display: block;
     list-style-type: disc;
@@ -35,7 +39,8 @@ hr {
     border-style: inset;
     border-width: 1px;
     opacity: 0.5;
-  }
+}
+
 table{
     table-layout: fixed;
     background-color:white ;
@@ -47,6 +52,7 @@ table{
     border-collapse: collapse;
     font-size: 1.1rem; 
     font-size: 1.1em;
+    font-size: medium;
 }
 th{
     background-color:#1E1E1E ;
@@ -54,6 +60,9 @@ th{
     padding: 5px;
     text-align: center;
     border: 1px solid #1E1E1E; 
+    font-size: 1.1rem; 
+    font-size: 1.1em; 
+    font-size: medium;
 }
 td{
     background-color:white ;
@@ -63,6 +72,7 @@ td{
     border: 1px solid #1E1E1E;
     font-size: 1.1rem; 
     font-size: 1.1em; 
+    font-size: medium;
 }
 .center {
     margin-left: auto;
